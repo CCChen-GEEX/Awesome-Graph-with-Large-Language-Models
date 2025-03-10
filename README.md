@@ -16,6 +16,11 @@
 - A Survey of Large Language Models for Graphs. *KDD 2024*. [[pdf]](https://arxiv.org/pdf/2405.08011) [[code]](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 - Large Language Models on Graphs: A Comprehensive Survey. *TKDE 2024*. [[pdf]](https://arxiv.org/abs/2312.02783) [[code]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
 
+## Awesome Research Papers
 
+#### Node Level
+#### Graph Level
+#### Link Level
+#### Graph Fundation Models
 
 ## Benchmark Datasets
