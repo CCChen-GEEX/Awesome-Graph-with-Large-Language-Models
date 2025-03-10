@@ -11,6 +11,8 @@
   - [Link Level](#Link-Level)
   - [Graph Fundation Models](#Graph-Fundation-Models)
 - [Benchmark Datasets](#Benchmark-Datasets)
+  - [Graph-Level Datasets](#Graph-Level-Datasets)
+  - [Node-Level Datasets](#Node-Level-Datasets)
 
 
 
@@ -33,3 +35,5 @@
 ### Graph Fundation Models
 
 ## Benchmark Datasets
+### Graph-Level Datasets
+### Node-Level Datasets
