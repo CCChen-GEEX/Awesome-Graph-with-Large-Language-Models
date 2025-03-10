@@ -1,6 +1,7 @@
 # Awesome Large Language Models & Graph
 
 ## Table of Contents
+- [Important Survey Papers](#Important-Survey-Papers)
 
 
 
