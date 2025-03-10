@@ -14,9 +14,6 @@
   - [Node-Level Datasets](#Node-Level-Datasets)
   - [Graph-Level Datasets](#Graph-Level-Datasets)
 
-
-
-
 ## Important Survey Papers
 - A Comprehensive Analysis on LLM-based Node Classification Algorithms. *Arxiv 2025*. [[pdf]](https://arxiv.org/pdf/2502.00829) [[code]](https://llmnodebed.github.io/)
 - A Survey of Large Language Models for Graphs. *KDD 2024*. [[pdf]](https://arxiv.org/pdf/2405.08011) [[code]](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
@@ -36,6 +33,7 @@
 ### Graph Fundation Models
 
 ## Benchmark Datasets
+### Important Benchmark Papers
 ### Node-Level Datasets
 ### Graph-Level Datasets
 
