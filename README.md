@@ -28,6 +28,8 @@
 - Large Language Model Guided Graph Clustering. *LoG 2024*. [[pdf]](https://assets.amazon.science/c6/f7/feca0fba4688b299353f6002827a/large-language-model-guided-graph-clustering.pdf)
 - Grenade: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs. *EMNLP 2023*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.181.pdf) [[code]](https://github.com/bigheiniu/GRENADE)
 #### Unified Embedding
+- Path-LLM: A Shortest-Path-based LLM Learning for Unified Graph Representation. *Arxiv 2024*. [[pdf]](https://arxiv.org/pdf/2408.05456)
+- WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding. *NeurIPS 2023*. [[pdf]](https://proceedings.neurips.cc/paper/2023/file/2ac879d1865475a7abc8dfc7a9c15c27-Paper-Conference.pdf) [[code]](https://github.com/Melinda315/WalkLM)
 
 ### Graph Level
 ### Link Level
