@@ -24,6 +24,8 @@
 ### Node Level
 #### Node Classification
 #### Node Clustering
+- Large Language Model Guided Graph Clustering. *LoG 2024*. [[pdf]](https://assets.amazon.science/c6/f7/feca0fba4688b299353f6002827a/large-language-model-guided-graph-clustering.pdf)
+- Grenade: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs. *EMNLP 2023*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.181.pdf) [[code]](https://github.com/bigheiniu/GRENADE)
 #### Unified Embedding
 
 ### Graph Level
