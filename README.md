@@ -40,3 +40,11 @@
 - A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking. *NeurIPS 2023*. [[pdf]](https://proceedings.neurips.cc/paper/2023/file/37d00f567a18b478065f1a91b95622a0-Paper-Datasets_and_Benchmarks.pdf) [[code]](https://github.com/sktsherlock/TAG-Benchmark)
 ### Node-Level Datasets
 ### Graph-Level Datasets
+
+## Contribute
+
+If you would like to help contribute this list, please feel free to contact me or add [pull request](https://github.com/CCChen-GEEX/Awesome-Large-Language-Models-and-Clustering/pulls) with the following Markdown format:
+
+```markdown
+- Paper Name. *Conference Year*. [[pdf]](link) [[code]](link)
+```
