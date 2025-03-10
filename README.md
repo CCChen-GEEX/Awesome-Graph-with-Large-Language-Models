@@ -2,6 +2,11 @@
 
 ## Table of Contents
 - [Important Survey Papers](#Important-Survey-Papers)
+- [Awesome Research Papers](#Awesome-Research-Papers)
+  - [Node Level](#Node-Level)
+  - [Graph Level](#Graph-Level)
+  - [Link Level](#Link-Level)
+  - [Graph Fundation Models](#Graph-Fundation-Models)
 - [Benchmark Datasets](#Benchmark-Datasets)
 
 
