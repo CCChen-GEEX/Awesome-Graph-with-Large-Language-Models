@@ -21,9 +21,13 @@
 
 ## Awesome Research Papers
 
-#### Node Level
-#### Graph Level
-#### Link Level
-#### Graph Fundation Models
+### Node Level
+#### Node Classification
+#### Node Clustering
+#### Unified Embedding
+
+### Graph Level
+### Link Level
+### Graph Fundation Models
 
 ## Benchmark Datasets
