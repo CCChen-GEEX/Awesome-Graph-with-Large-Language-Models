@@ -35,6 +35,7 @@
 
 ## Benchmark Datasets
 ### Important Benchmark Papers
+- A Comprehensive Analysis on LLM-based Node Classification Algorithms. *Arxiv 2025*. [[pdf]](https://arxiv.org/pdf/2502.00829) [[code]](https://llmnodebed.github.io/)
 - TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs. *NeurIPS 2024*. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/file/7054d2c49863c1c41be1d53f4377b82a-Paper-Datasets_and_Benchmarks_Track.pdf) [[code]](http://github.com/Zhuofeng-Li/TEG-Benchmark)
 - TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models. *Arxiv 2024*. [[pdf]](https://arxiv.org/pdf/2406.14683) [[code]](https://github.com/JiaruiFeng/TAGLAS)
 - A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking. *NeurIPS 2023*. [[pdf]](https://proceedings.neurips.cc/paper/2023/file/37d00f567a18b478065f1a91b95622a0-Paper-Datasets_and_Benchmarks.pdf) [[code]](https://github.com/sktsherlock/TAG-Benchmark)
